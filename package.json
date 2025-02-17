@@ -81,7 +81,7 @@
 		"semantic-release": "19.0.5",
 		"source-map-support": "0.5.21",
 		"ts-node": "10.9.1",
-		"type-fest": "2.19.0",
+		"type-fest": "4.35.0",
 		"typedoc": "0.23.25",
 		"typescript": "4.7.3",
 		"xo": "0.49.0"

@@ -192,7 +192,7 @@ __metadata:
     semantic-release: 19.0.5
     source-map-support: 0.5.21
     ts-node: 10.9.1
-    type-fest: 2.19.0
+    type-fest: 4.35.0
     typedoc: 0.23.25
     typescript: 4.7.3
     xo: 0.49.0
@@ -9291,10 +9291,10 @@ resolve@~1.19.0:
   languageName: node
   linkType: hard
 
-"type-fest@npm:2.19.0":
-  version: 2.19.0
-  resolution: "type-fest@npm:2.19.0"
-  checksum: a4ef07ece297c9fba78fc1bd6d85dff4472fe043ede98bd4710d2615d15776902b595abf62bd78339ed6278f021235fb28a96361f8be86ed754f778973a0d278
+"type-fest@npm:4.35.0":
+  version: 4.35.0
+  resolution: "type-fest@npm:4.35.0"
+  checksum: 14581e7b02bb43caa4893eec321a993378218c2672715d28c6f85a97756cf59864f4d90f8a794cf1929e861470debc8e682bf5c9575522872b520611b4bb14a0
   languageName: node
   linkType: hard
 
